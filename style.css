@@ -1,0 +1,27 @@
+.navbar{
+background-color: black;
+
+
+}
+body{
+
+
+margin: 0px 50px;
+}
+.btn{
+    background-color: black;
+}
+.edit{
+background-color: aqua;
+/* justify-content: space-evenly; */
+
+}
+.dropdown-menu{
+display: flex;
+justify-content: flex-end;
+}
+.faltu{
+
+display: flex;
+justify-content: space-evenly;
+}
